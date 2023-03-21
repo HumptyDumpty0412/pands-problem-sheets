@@ -12,7 +12,7 @@
 print("Please enter any digit x: ",end=" ")
 x = int(input()) # need transform in input because its digit
  
-while x > 1:     #Final point is 1, so while till x = 1
+while x > 1:     #Final point is 1, so while till x = 1   =>    x>1
   print (x) 
   if x % 2 == 0:  # if and else should be equal in line
    x = x // 2
