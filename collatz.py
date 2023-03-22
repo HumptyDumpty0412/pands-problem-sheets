@@ -18,7 +18,7 @@ while x > 1:     #Final point is 1, so while till x = 1   =>    x>1
    x = x // 2
   else:
    x = 3*x+1
-print(x)
+print(x, end="")
 
 
 
