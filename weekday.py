@@ -2,20 +2,15 @@
 # Author: Elena Chikanchi
 # (ctrl + /)
 
-weekday = ( "Monday",
-             "Thuesday",
-             "Wednesday",
-             "Thursday",
-             "Friday",
-             "Saturday",
-             "Sunday"
-)             
-while weekday:
-    weekday = input("What is the day today?:")
-    if Monday,Thuesday, Wednesday,Thursday,Friday == weekday
-    print(weekday)
-    else: Saturday,Sunday == weekend 
-    print(weekend)
+print("What is the day today: ",end =" ")
+a = ["Monday","Thuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]            
+d = {
+    #key: value,
+    "Monday": weekday,
+    "Thuesday": weekday,
+    "Wednesday": weekday,
+    "Thursday": weekday,
+    "Friday":weekday
+}
 
-
-
+print(d)
