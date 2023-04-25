@@ -10,5 +10,5 @@ a=int(input("Please enter the first number in cent: "))
 b=int(input("Please enter the second number in cent: "))
 string=((a+b)/100)
 
-print(f" The sum of number of these is {string} euro")
+print(f"The sum of number of these is {string} euro")
       
