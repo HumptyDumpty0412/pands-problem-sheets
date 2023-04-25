@@ -6,3 +6,5 @@ Searches what I see/read/watch is
 2. https://foxminded.ua/ Its ukrainian site with all known programms languaches. Im see online and sometimes I understand much faster your lectures
 3. https://www.w3schools.com/python/ 
 4. https://www.youtube.com/c/ProjectDataScience
+5. https://superuser.com/      for any questions
+6. https://stackoverflow.com/  for any questions
