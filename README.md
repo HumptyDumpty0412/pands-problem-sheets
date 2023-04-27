@@ -8,3 +8,4 @@ I move extremely slow by myself sorry for that.
 4. https://www.youtube.com/c/ProjectDataScience
 5. https://superuser.com/      for any questions
 6. https://stackoverflow.com/  for any questions
+7. https://realpython.com/python-f-strings/
