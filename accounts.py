@@ -5,5 +5,5 @@
 
 # Author: Elena Chikanchi (Im write a recipe)
 
-a = input("Please enter an 10 digit account number: "))  #"0"in beginning (start counting). 
+a = input("Please enter an 10 digit account number: ") #"0"in beginning (start counting). 
 print("XXXXXX"+a[6:]) 
