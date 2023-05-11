@@ -21,7 +21,3 @@ ax.grid()
 plt.legend()
 plt.show()
 
-#def f(x):
-    #x=np.array(x)
-    #return 1.0/x*3
-#print(f(3))
