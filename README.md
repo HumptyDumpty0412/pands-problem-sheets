@@ -9,3 +9,4 @@ I move extremely slow by myself sorry for that.
 5. https://superuser.com/      for any questions
 6. https://stackoverflow.com/  for any questions
 7. https://realpython.com/python-f-strings/
+8. https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
