@@ -10,14 +10,24 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-fig = plt.figure (figsize=(5,1000))
-# I use fig/figsize to create a boards of plot. 
-ax = fig.add_subplot()
+# Create numeric sequences 
+x = np.linspace(0,10,1000)
+y1 = [i**3 for i in x]
+y2 = np.random.normal(0,2,1000)
 
-y=np.random.normal (0,2,1000)
-ax.hist(y)
-ax.grid()
+#Creat coordinate axes
+
+plt.title("Title Grafics",fontsize=17)
+plt.xlabel("Text X")
+plt.ylabel("Text Y")
+plt.grid()
+
+plt.plot(x, y1, label="Grafic x**3")
+plt.hist(y2, label="Gistogramm")
+
 
 plt.legend()
 plt.show()
+
+
 
